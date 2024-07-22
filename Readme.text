@@ -1,0 +1,29 @@
+Environmental Conservation Awareness Website
+
+Description:
+This website aims to raise awareness about environmental conservation. It covers various aspects including our mission, projects, a gallery of our work, and contact information. 
+
+Files:
+- index.html: Home page of the website.
+- about.html: Information about the organization and its mission.
+- projects.html: Details of current and past projects.
+- gallery.html: A gallery of images related to our conservation efforts.
+- contact.html: Contact page with a form for visitors to reach out.
+- styles.css: External CSS file for styling the website.
+- images/: Contains images used in the website.
+
+Features:
+- Unique titles for each page.
+- Images and text on every page.
+- External CSS file controlling the layout and typography design.
+- Appropriate meta tags for better SEO.
+- E-mail hyperlink on the contact page.
+- Consistent design throughout the website.
+- Multimedia elements (images).
+- A form on the contact page.
+- The website is designed to be compatible with all major browsers (Firefox, Chrome, Safari, and Edge).
+
+To validate the HTML and CSS files, use the following validators:
+- HTML Validator: https://validator.w3.org/
+- CSS Validator: https://jigsaw.w3.org/css-validator/
+
